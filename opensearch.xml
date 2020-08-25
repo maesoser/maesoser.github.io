@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-  <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-  <ShortName>Mis notas por Sergio Maeso</ShortName>
-    <Url type="text/html" template="https://maesoser.github.io?search={searchTerms}"/>
-    <Description>Mis notas.</Description>
-    <Tags>front-end</Tags>
-    <Contact>https://twitter.com/maesoser</Contact>
-</OpenSearchDescription>
