@@ -1,20 +1,20 @@
-site: Sidey
-url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+site: Maesoser Blog
+url: maesoser.github.io
+title: Maesoser
+description: Just a bunch of notes.
 twitter:
-  username: #yourusername
+  username: maesoser
   card: summary
-  creator: #yourusername
+  creator: maesoser
 author:
-  twitter: #yourusername
-  name: #yourusername
+  twitter: maesoser
+  name: maesoser
   avatar:
   email: #youremail
-  url: #yoururl
+  url: maesoser.github.io
 permalink: pretty
 
-baseurl: ""
+baseurl: "maesoser.github.io"
 
 highlighter: none
 
