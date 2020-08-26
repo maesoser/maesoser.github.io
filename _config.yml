@@ -14,7 +14,7 @@ author:
   url: maesoser.github.io
 permalink: pretty
 
-baseurl: "maesoser.github.io"
+baseurl: "/"
 
 highlighter: none
 
@@ -60,3 +60,9 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  -
+    scope:
+      path: ""
+      type: "tags"
+    values:
+      layout: "tags"
