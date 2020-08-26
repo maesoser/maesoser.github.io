@@ -1,7 +1,10 @@
 ---
-title: La receta del gazpacho de los Val.
-tags:
-  - recetas
+layout: post
+title: Gazpacho
+description: La receta original del Gazpacho de los Val
+summary: La receta original del Gazpacho de los Val
+comments: true
+tags: [recetas]
 ---
 
 ## Ingredientes

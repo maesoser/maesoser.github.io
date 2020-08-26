@@ -1,8 +1,10 @@
 ---
-title: Hamburguesa
-tags:
-  - recetas
-
+layout: post
+title: Hambuerguesa de legumbres
+description: No sólo de carne vive el hombre
+summary: No sólo de carne vive el hombre
+comments: true
+tags: [recetas]
 ---
 
 ## Recetas

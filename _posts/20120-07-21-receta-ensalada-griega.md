@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Difference between font formats
-description: What is the difference between various font formats?
-summary: What is the difference between various font formats?
+title: Ensalada griega
+description: Receta para preparar una sencilla ensalada griega
+summary: Receta para preparar una sencilla ensalada griega
 comments: true
 tags: [recetas]
 ---
