@@ -4,7 +4,7 @@ title: Trenza de hojaldre
 description: Receta para una trenza de hojaldre
 summary: Receta para una trenza de hojaldre
 comments: true
-tags: [typography]
+tags: [recetas]
 ---
 
 ## Ingredientes
