@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Cuando el DNS miente: La censura en Internet y cómo detectarla.
+title: Cuando el DNS miente, la censura en Internet y cómo detectarla.
 description: Hoy vamos a hablar de uno de los métodos más sencillos que usan algunos estados para censurar páginas web en Internet. Se trata del DNS Hijacking o bloqueo DNS.
-summary: Cuando el DNS miente: La censura en Internet y cómo detectarla.
+summary: Cuando el DNS miente, la censura en Internet y cómo detectarla.
 comments: true
 tags: [Internet]
 ---
@@ -14,7 +14,7 @@ Hoy vamos a hablar de uno de los métodos más sencillos que usan algunos estado
 
 Cuando queremos acceder a una web, por ejemplo [google.com](www.google.com), nuestro ordenador pregunta a unos servidores de Internet llamados Servidores de Nombres de Dominio (Domain Name Servers o DNS) por la dirección de esa página web. Una vez la ha conseguido, nuestro ordenador realiza una petición a esa dirección IP para obtener la página web que buscábamos.
 
-![DNS_Process](dns.png)
+![DNS_Process](/assets/2020-08-05-turismo-dns/dns.png)
 
 ¿Cómo sabemos qué servidores DNS usar? Lo más común es que cuando nos conectemos a nuestro router de casa, éste nos sugiera un par de direciones de servidores DNS que suelen ser por defecto los DNS gestionados por nuestro proveedor de servicio[^1]. Por ejemplo, si tenéis Movistar en casa, el router os habrá sugerido `80.58.61.250` y `80.58.61.250` como DNS.
 

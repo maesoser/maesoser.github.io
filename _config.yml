@@ -2,6 +2,7 @@ site: Maesoser Blog
 url: maesoser.github.io
 title: Maesoser
 description: Just a bunch of notes.
+markdown: kramdown
 twitter:
   username: maesoser
   card: summary
